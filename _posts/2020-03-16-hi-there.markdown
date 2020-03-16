@@ -1,8 +1,24 @@
 ---
 layout: post
-title:  "hi there"
+title:  "hi"
 date:   2020-03-16 16:37:00 +0000
 categories: random
 ---
 
 ![](/assets/ralph.gif)
+
+This is my first post so here it goes.
+
+My name is Ryan Cosans and I'm a full stack dev from Essex currently working for TransferWise in London.
+
+I will be using this to blog share my ideas mostly regarding tech and programming but also about films, video games and maybe some other stuff. Especially if I think it's either really cool or really annoying.
+
+I'm very poorly educated to if misspeled words anoy you 👋by.
+
+A little more about me. I'm a massive rugby fan and love the occasional game. Swing low 🌹
+
+I'm a into basketball and play pickup games mostly in the summer. 🟣🟡
+
+I snowboard and skateboard in the appropriate seasons.
+
+If you want the occasional post bitching about stuff that annoys me day to day, twitter etc below.
