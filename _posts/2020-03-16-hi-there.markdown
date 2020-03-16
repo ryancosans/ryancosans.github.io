@@ -2,7 +2,7 @@
 layout: post
 title:  "hi there"
 date:   2020-03-16 16:37:00 +0000
-categories: hi-there
+categories: random
 ---
 
 ![](/assets/ralph.gif)
