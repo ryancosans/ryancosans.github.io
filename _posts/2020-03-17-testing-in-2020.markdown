@@ -11,9 +11,9 @@ Think about what type of test you are writing and why you are writing it. If it 
 
 ### A Little Background
 
-A little background I was taught TDD from the very beginning of my professional career which was a very good thing because to this day it's a highly sought after skill. However...
+I was taught TDD from the very beginning of my professional career which was a very good thing because to this day it's a highly sought after skill. However...
 
-A few years ago I decided that I didn’t like the way I was writing tests. They felt heavy and cumbersome and I felt that every time I changed some code I also had to change the reflected part of the code in the tests mostly because of mocks but we will get to that. I then I asked myself. Why am I writing tests?
+A few years ago I decided that I didn’t like the way I was writing tests. They felt heavy and cumbersome and I felt that every time I changed some code I also had to change the reflected part of the code in the tests mostly because of mocks (but we will get to that). I then I asked myself. Why am I writing tests?
 
 ![](/assets/thinking.gif)
 
@@ -23,7 +23,7 @@ So I thought to myself I must not be writing them correctly. But I was… I was 
 
 The idea of mocking something 🥁 that is called externally by a unit so that you can test the logic around it initially makes a lot of sense. This quickly becomes muddy however when you start relying on what is returned by that mock. Or it being called at all just to check that something is being morphed in a certain way. This holds little value. Basically a shittier version of snapshot tests.
 
-Like this you can’t change code quickly. You have to essentially change it twice. Once in normal code and secondly in a fugly reflection of the code.
+Like this you can’t change code quickly. You have to essentially change it twice. Once in normal code and then again in a fugly reflection of the code.
 
 ### An Example
 
@@ -51,7 +51,7 @@ I often see people talk about tests as documentation. *"I alway*s read the tests
 
 ![](/assets/lost.gif)
 
-The problem with this is *most languages have been designed to be readable. Adding a framework on top of this and trying to make it more readable than the code itself feels counter intuitive to me. It would be much better to write the unit's code and the test's code well and use the test as what it was originally designed for. To test the function works.
+The problem with this is most languages have been designed to be readable*. Adding a framework on top of this and trying to make it more readable than the code itself feels counter intuitive to me. It would be much better to write the unit's code and the test's code well and use the test as what it was originally designed for. To test the function works.
 
 *fuck you COW lang.
 
