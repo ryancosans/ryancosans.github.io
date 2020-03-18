@@ -15,11 +15,11 @@ I was taught TDD from the very beginning of my professional career which was a v
 
 A few years ago I decided that I didn’t like the way I was writing tests. They felt heavy and cumbersome and I felt that every time I changed some code I also had to change the reflected part of the code in the tests mostly because of mocks (but we will get to that). I then I asked myself. Why am I writing tests?
 
-![](/assets/thinking.gif)
+![](/assets/testingin2020/thinking.gif)
 
 So I thought to myself I must not be writing them correctly. But I was… I was following everything I'd been taught, all the "best practices". Everyone else appeared to like them but this is where the problem started if you said anything bad about writing tests you were either not writing them correctly or doing something else wrong. This happens sometimes in development. People become evangelists and fight for something they've learned like it's life or death or some strange religion. *"But but how will I get into developer heaven?"*.
 
-![](/assets/darth.gif)
+![](/assets/testingin2020/darth.gif)
 
 The idea of mocking something 🥁 that is called externally by a unit so that you can test the logic around it initially makes a lot of sense. This quickly becomes muddy however when you start relying on what is returned by that mock. Or it being called at all just to check that something is being morphed in a certain way. This holds little value. Basically a shittier version of snapshot tests.
 
@@ -49,7 +49,7 @@ Wouldn't it be better and easier to test the `validateName()` and `transform()` 
 
 I often see people talk about tests as documentation. *"I alway*s read the tests before reading the code"*. In the great words of master Kenobi *"Then you are lost!”*
 
-![](/assets/lost.gif)
+![](/assets/testingin2020/lost.gif)
 
 The problem with this is most languages have been designed to be readable*. Adding a framework on top of this and trying to make it more readable than the code itself feels counter intuitive to me. It would be much better to write the unit's code and the test's code well and use the test as what it was originally designed for. To test the function works.
 
