@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "good code"
-date:   2020-03-24 19:35:00 +0000
+date:   2020-03-24 11:35:00 +0000
 categories: games
 ---
 
@@ -12,7 +12,10 @@ This got me thinking. What makes code good? Initially my thoughts were good code
 Let’s say it must meet some basic criteria.
 
 1. It must fulfil its purpose.
-  This one is easy. We wouldn’t be writing it if it didn’t have some purpose. So as long as code has purpose we can tick this one off.
+
+!()[/assets/goodcode/purpose.gif]
+
+This one is easy. We wouldn’t be writing it if it didn’t have some purpose. So as long as code has purpose we can tick this one off.
 2. It must run reasonably fast.
 	Ok its started to get a little blurry. But let’s stick with it. Let’s say as long as the code we have written executes at the same speed or faster than a human could do the same task then it’s good.
 3. It must be readable.
