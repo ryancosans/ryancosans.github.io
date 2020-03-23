@@ -28,6 +28,8 @@ twitter_username: RyanCosans
 github_username:  ryancosans
 instagram_username: ryancosans
 
+google_analytics: UA-161588608-1
+
 # Build settings
 theme: minima
 plugins:
