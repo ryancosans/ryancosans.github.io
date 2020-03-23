@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "good code"
+date:   2020-03-24 19:35:00 +0000
+categories: games
+---
+
+Good code is a phrase that's thrown around a lot. Whenever I've speak to other developers at conferences, or my friends a phrase that comes up a lot is *"good code"*. e.g. *"Yeah it's not bad where I work, you get decent perks and the code is good"*.
+
+This got me thinking. What makes code good? Initially my thoughts were good code is subjective and the only way to know if the code is good is to trust the person that is telling you it's good. This makes sense if you've worked with people before or know of their work and know they're a good dev then you trust in their ability to identify good code. But is there anything that makes code objectively good? Well maybe.
+
+Let’s say it must meet some basic criteria.
+
+1. It must fulfil its purpose.
+  This one is easy. We wouldn’t be writing it if it didn’t have some purpose. So as long as code has purpose we can tick this one off.
+2. It must run reasonably fast.
+	Ok its started to get a little blurry. But let’s stick with it. Let’s say as long as the code we have written executes at the same speed or faster than a human could do the same task then it’s good.
+3. It must be readable.
+	Ok this is super vague and is where we need to dive a little deeper. Partly because this isn’t exactly measurable which is a shame because it’s arguably the most important.
+
+I guess we can start by looking at some very basic code and start deciding if it’s good or not. Specifically lets focus on readability, no code golf today.
+
+This is good code, insanely basic but good. It’s super clear what we are doing here. Arguable improvements could see us adding parenthesis to make it absolutely clear.
+
+Ok what about the same code refactored.
+
+This is now unnecessarily complicated considering it is the same basic code as above. You could try and argue that some parts of this are reusable this way but all we are really doing here is rewriting default operators.
+
+More importantly this relies on the developer to be responsible and keep functions scoped and name things perfectly. Even if they do I’d bet that most people would look at the functions internals just to make sure anyway.
