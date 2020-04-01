@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Putting the World back in Warcraft: Intro"
-date:   2020-04-02 12:30:00 +0000
+date:   2020-04-01 23:00:00 +0000
 categories: games
 ---
 
@@ -15,4 +15,4 @@ Because this game I truly love and because I genuinely want it to be better I wi
 
 ![](/assets/puttingtheworldbackinwarcraft/orcDance.gif)
 
-First up is [Dungeons]({% post_url 2020-04-02-putting-the-world-back-in-warcraft-dungeons %})
+First up is [Dungeons]({% post_url 2020-04-01-putting-the-world-back-in-warcraft-dungeons %})

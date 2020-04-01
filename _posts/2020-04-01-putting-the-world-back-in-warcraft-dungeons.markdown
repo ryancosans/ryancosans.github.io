@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Putting the World back in Warcraft: Dungeons"
-date:   2020-04-02 12:40:00 +0000
+date:   2020-04-01 23:00:00 +0000
 categories: games
 ---
-
-Putting the World back in Warcraft: Dungeons
 
 A good place to start is dungeons. Dungeons are a great introduction to group content for a lot of people and continue to serve as the gateway drug to raiding for a lot of people.
 
