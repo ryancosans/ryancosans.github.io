@@ -5,6 +5,8 @@ date:   2020-04-01 23:07:00 +0000
 categories: games
 ---
 
+![](/assets/puttingtheworldbackinwarcraft/dungeon.jpg)
+
 A good place to start is dungeons. Dungeons are a great introduction to group content for a lot of people and continue to serve as the gateway drug to raiding for a lot of people.
 
 Dungeons throughout the years have gotten more complex and are, in some ways, a vast improvement on the dungeons found in classic. Bosses actually have mechanics and with the introduction of different difficulties particularly hard modes in dungeons such as Operation: Mechagon I think the dungeons in World of Warcraft are the gold standard.
