@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Putting the World back in Warcraft: Transmogrification"
-date:   2020-09-05 11:05:00 +0000
+date:   2020-09-04 11:05:00 +0000
 categories: games
 ---
 
