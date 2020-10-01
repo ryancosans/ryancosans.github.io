@@ -10,6 +10,7 @@ If you want to skip the intro and go straight the posts the links are right here
 - [Dungeons]({% post_url 2020-04-01-putting-the-world-back-in-warcraft-dungeons %})
 - [Raids]({% post_url 2020-04-06-putting-the-world-back-in-warcraft-raids %})
 - [Transmogrification]({% post_url 2020-09-05-putting-the-world-back-in-warcraft-transmogrification %})
+- [World]({% post_url 2020-10-01-putting-the-world-back-in-warcraft-world %})
 
 This is my take on the current state of World of Warcraft and what classic has taught me about retail World of Warcraft and what I hope it has taught the developers at Blizzard.
 
