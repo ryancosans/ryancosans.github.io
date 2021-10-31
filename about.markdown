@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a bit of a dick really. Who made a game recently you can play it here -> [https://play.yavalath.com/](play.yavalath.com)  
+I'm a bit of a dick really. Who made a game recently you can play it here -> [https://play.yavalath.com/](https://play.yavalath.com/)  
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
